@@ -8,9 +8,6 @@
 import SwiftUI
 import SDWebImageSwiftUI
 
-import SwiftUI
-import SDWebImageSwiftUI
-
 // Main view for displaying popular movies
 struct ContentView: View {
     // StateObject to hold the view model
