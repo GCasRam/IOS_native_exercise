@@ -8,8 +8,6 @@
 import SwiftUI
 import SDWebImageSwiftUI
 
-simport SwiftUI
-import SDWebImageSwiftUI
 
 // View to display details of a selected movie
 struct MovieDetailView: View {
